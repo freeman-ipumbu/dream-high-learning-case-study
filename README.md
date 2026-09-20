@@ -58,6 +58,7 @@ The latest production release strengthened both usability and delivery confidenc
 ## Release update · 20 September 2026
 
 - Added a quiet, linked SolarSpin Technologies authorship credit to the production footer without competing with the institute's identity
+- Optimised the social sharing card to a lightweight 1200 × 630 JPEG and versioned its Open Graph URL for more reliable link previews in messaging and social apps
 
 ## My contribution
 

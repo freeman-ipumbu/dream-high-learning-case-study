@@ -55,6 +55,10 @@ The latest production release strengthened both usability and delivery confidenc
 - Promoted lint, type-check and production-build checks into the deployment workflow
 - Verified the successful GitHub Actions run and live Cloudflare deployment
 
+## Release update · 20 September 2026
+
+- Added a quiet, linked SolarSpin Technologies authorship credit to the production footer without competing with the institute's identity
+
 ## My contribution
 
 Strategy, design research, information architecture, visual direction, interaction design, responsive frontend implementation, accessibility refinement, content refinement, document-system alignment, media production and deployment engineering.

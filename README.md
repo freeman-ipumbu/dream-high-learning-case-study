@@ -73,3 +73,7 @@ The public release is live and the production pipeline is passing. Future iterat
 This public repository is a curated portfolio case study. Production source code, operational configuration, editable document masters and private institutional material are intentionally excluded.
 
 The Dream High name, emblem and institutional content belong to Dream High Learning Institute & Counselling. Portfolio presentation and implementation are © 2026 Freeman Ipumbu. All rights reserved.
+
+---
+
+A research-led digital experience by [SolarSpin Technologies](https://www.solarspin-namibia.xyz/), built with Dream High's identity and institutional boundaries kept intact.
